@@ -6,7 +6,7 @@ Its the PHP script to parse the whatsapp conversation text files. When you expor
 
 Example to parse:
 ------------------
-php WhatsappParser.php <file-to-parse>
+php WhatsappParser.php file-to-parse.txt
 
 Dependency
 ----------
